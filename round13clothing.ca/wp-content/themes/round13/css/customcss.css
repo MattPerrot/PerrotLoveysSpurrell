@@ -1,0 +1,205 @@
+#mega-menu-wrap-header-menu #mega-menu-header-menu > li.mega-menu-item > a.mega-menu-link
+{
+    text-transform: uppercase;
+    font-size: 14px;
+    color: #0d0d0d;
+    font-family: 'ProximaNova-Semibold';
+    letter-spacing: 1.5px;
+}
+.partnership_right .vc_column-inner .wpb_content_element{
+    margin-bottom: 0px;
+}
+.shipping_content .wpb_text_column p:last-child {
+    margin-bottom: 0;
+}
+.shipping_content .wpb_content_element  {
+    margin-bottom: 0px;
+}
+
+
+.text_contains :after {
+    background: #fff;
+    width: 40px;
+    height: 1px;
+    display: block;
+    margin: 16px 0 27px;
+    content: '';
+}
+
+.woocommerce-checkout #payment ul.payment_methods {
+    text-align: left;
+    padding: 1em;
+    border-bottom: 0px solid #d3ced2;
+    margin: 0;
+    list-style: none;
+}
+.woocommerce-checkout #payment {
+    background: #fff; 
+    border-radius: 5px;
+}
+
+.check_form textarea {
+    display: inline-block;
+    width: 100%;
+    height: 95px;
+    border: 1px solid #dfdfdf;
+    resize: none;
+    outline: none;
+    margin-top: 2px;
+    padding: 10px 12px;
+}
+
+.place_order .custbtn{
+    text-transform: uppercase;
+    color: #ffffff;
+    background-color: #000;
+    padding: 8px 30px;
+    float: right;
+}
+a.about_paypal {
+    display: none;
+}
+.woocommerce-pagination .page-numbers
+{
+    float: right;
+}
+.woocommerce nav.woocommerce-pagination ul{
+    border: none;
+}
+.page-numbers .current{
+    color: #0d0d0d;
+    background-color: transparent;
+    background: #fff;   
+}
+.woocommerce nav.woocommerce-pagination ul li{
+    border-right: none;
+}
+.page-numbers li .right_arrow{
+    background: url(../images/trip.png)no-repeat;
+    background-position: -23px -41px;
+    width: 18px;
+    height: 14px;
+    margin-top: 6px;
+    margin-left: 10px;
+}
+.story_contain .wpb_content_element.story_logo {
+    margin-bottom: 14px; 
+}
+.story_contain .wpb_content_element {
+    margin-bottom: 0px; 
+}
+.cart_btn{
+    background-color: transparent;
+}
+.woocommerce-variation-price {
+    margin: 10px 0 10px;
+    display: inline-block;
+    color: #696969;
+    font-family: 'ProximaNova-Light';
+    font-size: 16px;
+}
+
+.woof_container_inner_chooseasize .woof_list_radio label.woof_radio_label{padding: 6px 10px 5px; cursor: pointer;border: 1px solid #696969;    margin-left: 0px;}
+.woof_container_inner_chooseasize .woof_list_radio label.woof_radio_label_selected{border: 1px solid #000;}
+.woof_container_inner_chooseasize .woof_list_radio li:first-child{margin-left:0px !important;}
+form label.error{
+    color:#a00;
+}
+form#register_frm .woocommerce-Input.error{
+    border-color: #a00;
+}
+form#register_frm .woocommerce-Input.valid{
+    border-color: #69bf29;
+}
+form#login_frm .woocommerce-Input.error{
+    border-color: #a00;
+}
+form#login_frm .woocommerce-Input.valid{
+    border-color: #69bf29;
+}
+.create-account p{
+    display: inline-block;
+    margin: 0 15px;
+}
+.create-account input[type='password']{
+    border: 1px solid #dfdfdf; 
+    width: 100%;
+    display: block;
+    padding: 10px 12px 10px;
+    margin-top: 3px;
+    margin-bottom: 11px;
+}
+.create-account p#account_password_field{
+    width: 100%;
+}
+
+
+
+
+// pop up single page
+.modal {
+    margin-top: 15%;
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 1; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 70%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%;
+}
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+/* changes(12-1-2017)*/
+
+.title_h2.vc_title{
+    font-family: 'ProximaNova-Semibold';
+    text-transform: uppercase;
+    color: #0d0d0d;
+    font-size: 24px;
+    padding: 25px 0px 5px 0px;
+}
+.vc_p ul li:before {
+    content: '';
+    height: 6px;
+    width: 6px;
+    background-color: #000;
+    display: inline-block;
+    position: absolute;
+    left: 0px;
+    border-radius: 50%;
+    top: 50%;
+}
+.vc_p ul li{
+    position: relative;
+    padding-left: 14px;
+}
+
+
+.sizecharts {
+    margin-top: 20px;
+}

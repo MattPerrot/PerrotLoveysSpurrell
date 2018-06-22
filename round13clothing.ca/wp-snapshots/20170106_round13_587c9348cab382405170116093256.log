@@ -1,0 +1,47 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-01-16 09:33:41
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.24
+WORDPRESS:	4.7.1
+PHP INFO:	5.6.15 | SAPI: cgi-fcgi
+SERVER:		Microsoft-IIS/8.5 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 37.75MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:34 | filtered:0 | create:34 
+FILTERED: [] 
+SQL CREATED: 20170106_round13_587c9348cab382405170116093256_database.sql 
+SQL FILE SIZE: 4.1MB (4294716) 
+SQL FILE TIME: 2017-01-16 09:33:42 
+SQL RUNTIME: 0.66 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/hshome/round13/round13clothing.ca 
+ARCHIVE FILE: 20170106_round13_587c9348cab382405170116093256_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	452.51MB 
+STATS:	Dirs 933 | Files 8,435 
+SQL ADDED: 20170106_round13_587c9348cab382405170116093256_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 9368
+    [filename] => C:\hshome\round13\round13clothing.ca\wp-snapshots\tmp\20170106_round13_587c9348cab382405170116093256_archive.zip
+    [comment] => 
+)
+ 
